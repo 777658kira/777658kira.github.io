@@ -1,0 +1,17 @@
+body{margin:0px auto;}
+#index47 {	
+display:block;
+width:600px;
+height:30px;
+padding:0px;
+margin:0px 23%;
+text-align:center;
+background-color:lightgreen;
+font-size:30px;
+}
+#index47 a{
+	color: Coral;
+	margin:0px 20px;
+	text-decoration:none;
+	font-weight:bold;
+}	

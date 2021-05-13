@@ -1,0 +1,48 @@
+body{margin:0px auto;}
+#index23 {
+	display:block;
+	width:600px;
+	height:30px;
+	padding:0px;
+	margin:0px 23%;
+	text-align:center;
+	background-color:lightgreen;
+	font-size:30px;
+}
+#index23 a{
+	color: darkblue;
+	margin:0px 20px;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+body{
+	background-image:url('gg.jpg');
+	background-repeat:repeat-y;
+	background-position:right;		
+}
+#rki {
+	width:450px;
+	margin:0px 27%;
+}
+#glgl {
+	width:450px;
+	margin:0px 27%;
+}
+#wer {
+width:450px;
+margin:0px 27%;
+}
+#her {
+width:450px;
+margin:0px 27%;	
+}
+
+
+
+
+
+
+
+
+
